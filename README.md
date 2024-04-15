@@ -8,4 +8,4 @@
 
 ## My GitHub Statistics
 
-![YourName's github stats](https://github-readme-stats.vercel.app/api?username=jerilseb&show_icons=true)
+![YourName's github stats](https://github-readme-stats.vercel.app/api?username=jerilseb&show_icons=true&theme=radical)
