@@ -2,7 +2,6 @@
 
 ## About Me
 - 👨‍💻 I'm currently working at VideoKen
-- 📚 I'm currently learning Golang
 - 💬 Ask me about Javascript, Python
 - 📫 How to reach me: x.com/jerilseb
 
